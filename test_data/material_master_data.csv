@@ -1,0 +1,6 @@
+Material_No,Description,Type,UoM,Division,Standard_Price_INR,Material_Group
+MAT-CTN-001,Premium Cotton Fabric Roll,FERT,ROL,01,5000,001
+MAT-CTN-002,Economy Cotton Fabric Roll,FERT,ROL,01,3200,001
+MAT-SYN-001,Polyester Blend Fabric Roll,FERT,ROL,01,4200,002
+MAT-SYN-002,Nylon Mesh Fabric Roll,FERT,ROL,01,3800,002
+MAT-ACC-001,Fabric Binding Tape (100m),FERT,PC,02,450,003

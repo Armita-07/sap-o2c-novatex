@@ -1,0 +1,4 @@
+Customer_No,Name,City,State,Country,Account_Group,Payment_Terms,Sales_Org,DC,Division
+100001,Fabric Bazaar Ltd.,Cuttack,Odisha,IN,0001,ZN30,NTX_SO,10,01
+100002,Eastern Textiles Co.,Kolkata,West Bengal,IN,0001,ZN45,NTX_SO,10,01
+100003,Silk Route Traders,Bhubaneswar,Odisha,IN,0001,ZN30,NTX_SO,20,01
