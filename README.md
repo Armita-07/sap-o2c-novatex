@@ -123,6 +123,14 @@ Technology | PurposeSAP
 | Markdown | Documentation & README |
 | GitHub | Version control & project hosting |
 
+## UNIQUE FEATURES
+
+-**Indian GST-compliant pricing** — MWST condition configured for 12% GST, making it relevant to real Indian business scenarios
+-**Fictitious company designed for eastern India** — NovaTex Industries based in Bhubaneswar with customers in Odisha and West Bengal
+-**Complete 8-step O2C cycle** — most projects cover only 4-5 steps; yours includes Inquiry and Quotation phases too
+-**Full accounting integration** — every SD step shows the corresponding FI entry (COGS, Revenue, GST Payable, AR)
+-**Document flow verification** — VA03 document flow showing all 6 linked documents in one chain
+
 ## 🎯 Key Learning Outcomes
 
 1. Understanding SAP SD enterprise structure configuration
