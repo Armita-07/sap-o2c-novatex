@@ -1,10 +1,11 @@
-# sap-o2c-novatex
 # 🏭 NovaTex Industries - SAP Order-to-Cash (O2C) Capstone Project
 
-**Student:** Armita Patro 
-**Roll Number:** 23051737
+**Student:** Armita Patro
+**Roll Number:** 23051737 
 **Batch/Program:** SAP BTP DEVELOPER | KIIT  DU
 **Submission Date:** April 21, 2026  
+
+---
 
 ## 📌 Project Overview
 
@@ -12,6 +13,7 @@ This capstone project demonstrates an **end-to-end Order-to-Cash (O2C) cycle** i
 
 The O2C cycle covers the complete journey from a customer placing an order to the company receiving payment - including sales order creation, delivery processing, goods issue, billing, and accounts receivable posting.
 
+---
 
 ## 🏢 Company Profile — NovaTex Industries Pvt. Ltd.
 
@@ -26,6 +28,8 @@ The O2C cycle covers the complete journey from a customer placing an order to th
 | Sales Org | NTX_SO (NovaTex Sales Org) |
 | Distribution Channel | 10 – Wholesale |
 | Division | 01 – Textiles |
+
+---
 
 ## 🔄 O2C Process Flow
 
@@ -45,6 +49,9 @@ Billing/Invoice (VF01)
 Accounting Entry (FI Integration)
         ↓
 Payment Receipt (F-28)
+```
+
+---
 
 ## 📁 Repository Structure
 
@@ -121,6 +128,7 @@ sap-o2c-novatex/
 - Add intercompany sales scenario
 - Integrate with SAP CRM for customer interaction history
 
+---
 
 ## 📄 Documentation
 
