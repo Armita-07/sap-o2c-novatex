@@ -136,4 +136,9 @@ Full project documentation is available in [`docs/Project_Documentation.pdf`](do
 
 ---
 
-*This project is submitted as part of the SAP Capstone at KIIT. All company data is fictitious and created for educational purposes.*
+*This project is submitted as part of the SAP BTP DEVELOPER PROJECT at KIIT DU. All company data is fictitious and created for educational purposes.* 
+
+Submitted by :
+Name- Armita Patro
+ROLL NO- 23051737
+SAP BTP DEVELOPER
