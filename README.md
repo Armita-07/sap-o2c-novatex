@@ -109,7 +109,19 @@ sap-o2c-novatex/
 | Invoice | VF01 | 0090001234 |
 | Accounting | FB03 | 1400001234 |
 
----
+## Tech Stack used
+
+Technology | PurposeSAP 
+|----------|-----------|
+| S/4HANACore | ERP platform for O2C execution |
+| SAP SD (Sales & Distribution) | Sales order, delivery, billing |
+| SAP MM (Materials Management) | Inventory & goods issue |
+| SAP FI (Financial Accounting) | Accounting entries, AR, payment |
+| SAP Fiori | Modern UI layer for SAP transactions |
+| SAP Condition Technique | Pricing procedure configuration |
+|SPRO (IMG) | Enterprise structure customization |
+| Markdown | Documentation & README |
+| GitHub | Version control & project hosting |
 
 ## 🎯 Key Learning Outcomes
 
